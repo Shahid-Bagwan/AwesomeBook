@@ -20,7 +20,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](https://github.com/ZabihullahNooriWardak/AwesomeBook/blob/feature/LICENSE)
+- [📝 License](#)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -43,7 +43,7 @@
 - **[User-friendly Interface]**
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://zabihullahnooriwardak.github.io/AwesomeBook/)
+- [Live Demo Link]( https://shahid-bagwan.github.io/AwesomeBook/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -66,7 +66,7 @@ And go to that folder where you want the project for example if you want to have
   cd my-folder
   C:\Users\Dell\my-folder
 After you can clone using this command  
-  git clone https://github.com/ZabihullahNooriWardak/AwesomeBook.git
+  git clone https://github.com/Shahid-Bagwan/AwesomeBook.git
 
 
 ### Install
